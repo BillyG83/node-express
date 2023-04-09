@@ -1,5 +1,7 @@
 # Node and Express Learns to impress Gabba 🌮
 
+This is a repo I made to showcase all my Node JS and Express learnings. Is a hella simple app that uses express to return data that means nothing. Enjoy!
+
 ## Get her going
 - pnpm install
 - pnpm dev
