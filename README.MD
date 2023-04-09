@@ -1,28 +1,28 @@
-# Node and Express Tutorial
+# Node and Express Learns to impress Gabba 🌮
 
-#### Node Course
+## Get her going
+- pnpm install
+- pnpm dev
+- use API-Try.postman_collection.json
 
-[Node Tutorial and Projects Course](https://www.udemy.com/course/nodejs-tutorial-and-projects-course/?referralCode=E94792BEAE9ADD204BC7)
+## API list to hit with Postman
+| Type | Route                           | Req   | Param | Res                                   |
+|------|---------------------------------|-------|-------|---------------------------------------|
+| POST | http://localhost:5005/api/auth  | name  |       | Welcome message                       |
+| POST | http://localhost:5005/api/users | name  |       | All users array plus new user         |
+| GET  | http://localhost:5005/api/users |       |       | All users array                       |
+| PUT  | http://localhost:5005/api/users | name  | ID    | All users array with user name edited |
+| DEL  | http://localhost:5005/api/users |       | ID    | All users array without deleted user  |
 
-#### Support
+## learnings from this project
+- Node basics
+- Express basics
+- Routing
+- HTTP methods
+- Postman
 
-Find the App Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
+## tutorial followed
+[Learn Node.js and Express with This Free 8-hour Back End Development Course](https://www.freecodecamp.org/news/free-8-hour-node-express-course/)
 
-#### Contents
-
-1. Node Tutorial
-2. Express Tutorial
-3. Task Manager (MongoDB, Mongoose)
-4. Store API
-5. JWT Basics
-6. Jobs API
-
-#### Course Exclusive
-
-[Node Tutorial and Projects Course](https://www.udemy.com/course/nodejs-tutorial-and-projects-course/?referralCode=E94792BEAE9ADD204BC7)
-
-7. File Upload (local and cloudinary)
-8. Send Email (nodemailer,ethereal and sendgrid )
-9. Stripe Payment
-10. E-Commerce API
-11. Auth Workflow (verify email, reset password)
+### hit me up
+[twitter/billgil](https://twitter.com/billgil)
